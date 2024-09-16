@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050658836838",
+    "project_id": "perwork",
+    "storage_bucket": "perwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050658836838:android:09dcc5aede58a9c31b38a7",
+        "android_client_info": {
+          "package_name": "com.example.perworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraScb_s26cbbpnoA76kl0TaFS0rohPH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050658836838:android:9afe9833108fd7841b38a7",
+        "android_client_info": {
+          "package_name": "com.nishantsirohi.perwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraScb_s26cbbpnoA76kl0TaFS0rohPH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
